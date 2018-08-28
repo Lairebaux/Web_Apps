@@ -1,0 +1,36 @@
+html {
+    font-family: "Helvetica";
+    background: white;
+}
+body {
+    background: #D3D3D3;
+    max-width: 900 px;
+    margin: 0 auto;
+}
+#header {
+    padding-top: 5px;
+    background: #F08080;
+}
+#inner-header {
+    padding-left: 10px;
+}
+#main {
+    padding-left: 10px;
+}
+input[type="text"], select {
+    color : grey;
+    border: 1px solid #FAF0E6;
+    height: 30px;
+    line-height: 15px;
+    margin: 2px 6px 16px 0px;
+}
+input[type="submit"] {
+    padding: 5px 10px 5px 10px;
+    color: black;
+    background: #F8F8FF;
+    border: none;
+    box-shadow: 1px 1px 1px #EE6363
+}
+input[type="submit"]:hover {
+    background: #FAF0E6;
+}
