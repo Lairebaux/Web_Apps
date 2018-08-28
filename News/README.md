@@ -1,6 +1,6 @@
 # RSS News
 
-#### This application using Flask retrieves news via RSS from La Presse and the Journal de Montreal.
+#### This application using Flask retrieves news via RSS from La Presse and le Journal de Montreal.
 
 
 
